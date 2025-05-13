@@ -96,12 +96,5 @@ int main(){
 
     printf ("FIM!!");
   printf("\n-------------------------");
-
-
-
-
-
-
-
    return 0;
 }
